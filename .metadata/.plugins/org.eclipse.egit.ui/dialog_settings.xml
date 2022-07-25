@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Himanshu\Documents\Project\iTracker-Mayank\.git">
+			<item value="false"/>
+			<item value="Him8725 &lt;himanshu.arora@accolitedigital.com&gt;"/>
+			<item value="commit"/>
+			<item value="Him8725 &lt;himanshu.arora@accolitedigital.com&gt;"/>
+			<item value="5b9d44c9af8325c0313c3656ca3cc1f3fb614490"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
