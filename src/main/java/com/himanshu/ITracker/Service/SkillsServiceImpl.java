@@ -1,13 +1,13 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mayank.ITracker.Dao.SkillDao;
-import com.mayank.ITracker.Entity.Skills;
-import com.mayank.ITracker.Entity.SkillsPK;
+import com.himanshu.ITracker.Dao.SkillDao;
+import com.himanshu.ITracker.Entity.Skills;
+import com.himanshu.ITracker.Entity.SkillsPK;
 
 
 @Service

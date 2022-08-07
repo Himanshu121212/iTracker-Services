@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Controller;
+package com.himanshu.ITracker.Controller;
 
 import java.util.List;
 import java.util.Set;
@@ -14,11 +14,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mayank.ITracker.Dao.FreeSlotsDao;
-import com.mayank.ITracker.Dao.SlotsDao;
-import com.mayank.ITracker.Entity.FreeSlots;
-import com.mayank.ITracker.Entity.Slots;
-import com.mayank.ITracker.Service.FreeSlotsService;
+import com.himanshu.ITracker.Dao.FreeSlotsDao;
+import com.himanshu.ITracker.Dao.SlotsDao;
+import com.himanshu.ITracker.Entity.FreeSlots;
+import com.himanshu.ITracker.Entity.Slots;
+import com.himanshu.ITracker.Service.FreeSlotsService;
 
 @RestController
 @RequestMapping("User/Interview")

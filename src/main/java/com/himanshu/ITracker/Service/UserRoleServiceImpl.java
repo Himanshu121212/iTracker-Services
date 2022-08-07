@@ -1,12 +1,12 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mayank.ITracker.Dao.UserRoleDao;
-import com.mayank.ITracker.Entity.UserRole;
+import com.himanshu.ITracker.Dao.UserRoleDao;
+import com.himanshu.ITracker.Entity.UserRole;
 
 @Service
 public class UserRoleServiceImpl implements UserRoleService {

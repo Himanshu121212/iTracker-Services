@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 import java.util.Optional;
@@ -7,12 +7,12 @@ import org.apache.catalina.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.mayank.ITracker.Controller.FreeSlotsController;
-import com.mayank.ITracker.Dao.SlotsBookDao;
-import com.mayank.ITracker.Dao.SlotsDao;
-import com.mayank.ITracker.Dao.UserDao;
-import com.mayank.ITracker.Entity.Slots;
-import com.mayank.ITracker.Entity.SlotsBook;
+import com.himanshu.ITracker.Controller.FreeSlotsController;
+import com.himanshu.ITracker.Dao.SlotsBookDao;
+import com.himanshu.ITracker.Dao.SlotsDao;
+import com.himanshu.ITracker.Dao.UserDao;
+import com.himanshu.ITracker.Entity.Slots;
+import com.himanshu.ITracker.Entity.SlotsBook;
 
 @Service
 public class SlotsBookServiceImpl implements SlotsBookService {

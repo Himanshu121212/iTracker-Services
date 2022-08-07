@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Controller;
+package com.himanshu.ITracker.Controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -18,10 +18,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mayank.ITracker.Dao.SkillDao;
-import com.mayank.ITracker.Entity.Skills;
-import com.mayank.ITracker.Entity.Slots;
-import com.mayank.ITracker.Service.SkillsService;
+import com.himanshu.ITracker.Dao.SkillDao;
+import com.himanshu.ITracker.Entity.Skills;
+import com.himanshu.ITracker.Entity.Slots;
+import com.himanshu.ITracker.Service.SkillsService;
 
 @RestController
 @CrossOrigin(origins = "http://localhost:4200",maxAge=3600)

@@ -1,9 +1,9 @@
 
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 
-import com.mayank.ITracker.Entity.UserRole;
+import com.himanshu.ITracker.Entity.UserRole;
 
 public interface UserRoleService {
 

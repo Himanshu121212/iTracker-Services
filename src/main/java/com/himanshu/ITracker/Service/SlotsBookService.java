@@ -1,8 +1,8 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 
-import com.mayank.ITracker.Entity.SlotsBook;
+import com.himanshu.ITracker.Entity.SlotsBook;
 
 public interface SlotsBookService {
 

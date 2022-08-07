@@ -1,8 +1,8 @@
-package com.mayank.ITracker.Dao;
+package com.himanshu.ITracker.Dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.mayank.ITracker.Entity.UserRole;
+import com.himanshu.ITracker.Entity.UserRole;
 
 public interface UserRoleDao extends JpaRepository<UserRole,Long> {
 

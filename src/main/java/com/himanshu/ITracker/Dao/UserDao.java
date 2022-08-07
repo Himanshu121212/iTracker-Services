@@ -1,10 +1,10 @@
-package com.mayank.ITracker.Dao;
+package com.himanshu.ITracker.Dao;
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.mayank.ITracker.Entity.User;
+import com.himanshu.ITracker.Entity.User;
 
 public interface UserDao extends JpaRepository<User,Long>{
 

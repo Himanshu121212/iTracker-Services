@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Dao;
+package com.himanshu.ITracker.Dao;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
-import com.mayank.ITracker.Entity.SlotsBook;
+import com.himanshu.ITracker.Entity.SlotsBook;
 
 public interface SlotsBookDao extends JpaRepository<SlotsBook, Integer> {
 

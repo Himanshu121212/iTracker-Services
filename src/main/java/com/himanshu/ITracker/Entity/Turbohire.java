@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Entity;
+package com.himanshu.ITracker.Entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,9 +1,9 @@
-package com.mayank.ITracker.Controller;
+package com.himanshu.ITracker.Controller;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mayank.ITracker.Entity.User;
-import com.mayank.ITracker.Service.UserService;
+import com.himanshu.ITracker.Entity.User;
+import com.himanshu.ITracker.Service.UserService;
 
 import java.util.List;
 import java.util.Optional;

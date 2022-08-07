@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 
@@ -10,9 +10,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-
-import com.mayank.ITracker.Dao.TurbohireDao;
-import com.mayank.ITracker.Entity.Turbohire;
+import com.himanshu.ITracker.Dao.TurbohireDao;
+import com.himanshu.ITracker.Entity.Turbohire;
 @Service
 public class TurbohireServiceImpl implements TurbohireService{
 	

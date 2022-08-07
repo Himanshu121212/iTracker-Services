@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Controller;
+package com.himanshu.ITracker.Controller;
 
 import java.util.List;
 
@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.mayank.ITracker.Dao.SlotsBookDao;
-import com.mayank.ITracker.Entity.SlotsBook;
-import com.mayank.ITracker.Service.SlotsBookService;
+import com.himanshu.ITracker.Dao.SlotsBookDao;
+import com.himanshu.ITracker.Entity.SlotsBook;
+import com.himanshu.ITracker.Service.SlotsBookService;
 
 @RestController
 @RequestMapping("/slotsBook")

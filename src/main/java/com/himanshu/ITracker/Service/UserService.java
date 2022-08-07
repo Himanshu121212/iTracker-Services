@@ -1,10 +1,10 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
 import java.util.List;
 
 import org.springframework.http.ResponseEntity;
 
-import com.mayank.ITracker.Entity.User;
+import com.himanshu.ITracker.Entity.User;
 
 public interface UserService {
 

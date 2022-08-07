@@ -1,6 +1,6 @@
-package com.mayank.ITracker.Service;
+package com.himanshu.ITracker.Service;
 
-import com.mayank.ITracker.Entity.FreeSlots;
+import com.himanshu.ITracker.Entity.FreeSlots;
 
 public interface FreeSlotsService {
 	   public FreeSlots save(FreeSlots s);

@@ -1,4 +1,4 @@
-package com.mayank.ITracker.Dao;
+package com.himanshu.ITracker.Dao;
 
 
 import java.util.List;
@@ -11,8 +11,8 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.mayank.ITracker.Entity.Skills;
-import com.mayank.ITracker.Entity.SkillsPK;
+import com.himanshu.ITracker.Entity.Skills;
+import com.himanshu.ITracker.Entity.SkillsPK;
 @Repository
 @Transactional
 public interface SkillDao extends JpaRepository<Skills, SkillsPK>{
